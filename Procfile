@@ -1,1 +1,1 @@
-web: python img2xlsx.py
+web: python app.py
