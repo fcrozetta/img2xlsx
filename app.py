@@ -6,7 +6,6 @@ from openpyxl.styles import PatternFill
 from PIL import Image
 import base64
 import io
-import numpy as np
 from pathlib import Path
 
 app = Flask(__name__)
